@@ -1,0 +1,17 @@
+// Avant 
+hospital-system/
+├── patient_form.php          (Enregistre audit auto)
+├── patient_history.php       (Lit audit_log par patient)
+├── audit_log table           (Utilisée)
+└── Pas de vue globale
+
+// Apres( avec audit coomplet)
+hospital-system/
+├── patient_form.php          (Enregistre audit auto)
+├── patient_history.php       (Lit audit_log par patient)
+├── audit_global.php          ✅ NOUVEAU (Vue globale)
+├── audit_export.php          ✅ NOUVEAU (Export CSV)
+├── includes/
+│   └── audit_functions.php   ✅ NOUVEAU (Fonctions utilitaires)
+├── audit_log table           (Utilisée)
+└── Navigation enrichie

@@ -1,0 +1,7 @@
+1. Ajouter le lien dans la navigation
+Dans dashboard.php, patients.php, et patient_history.php, ajoutez :
+
+php
+<a href="audit_global.php" class="btn-primary">📊 Audit Global</a>
+
+🔗 AJOUT DES LIENS VERS L'AUDIT GLOBAL voir Ajout_des_liens.php

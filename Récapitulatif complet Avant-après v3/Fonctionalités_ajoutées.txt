@@ -1,0 +1,20 @@
+🎯 FONCTIONNALITÉS DE L'AUDIT GLOBAL
+✅ Ce que vous aurez :
+📊 Vue d'ensemble de toutes les activités
+
+🔍 Filtres puissants pour investiguer
+
+📈 Statistiques en temps réel
+
+📥 Export CSV pour analyse externe
+
+🔗 Liens directs vers les historiques patients
+
+📄 Pagination pour les gros volumes
+
+🧪 Test immédiat :
+Créez le fichier audit_global.php
+
+Ajoutez le lien dans le dashboard
+
+Testez les filtres avec vos données existantes
